@@ -1,0 +1,2370 @@
+{
+    "events": [
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.326368+00:00 ip-10-0-1-11 systemd-modules-load[140]: Module 'i2c_dev' is built in",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536512"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333835+00:00 ip-10-0-1-11 systemd-fsck[142]: cloudimg-rootfs: clean, 89554/917504 files, 580522/1834747 blocks",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536513"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333847+00:00 ip-10-0-1-11 systemd-modules-load[140]: Inserted module 'msr'",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536514"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333850+00:00 ip-10-0-1-11 systemd[1]: Mounted dev-hugepages.mount - Huge Pages File System.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536515"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333853+00:00 ip-10-0-1-11 systemd[1]: Mounted dev-mqueue.mount - POSIX Message Queue File System.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536516"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333855+00:00 ip-10-0-1-11 systemd[1]: Mounted sys-kernel-debug.mount - Kernel Debug File System.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536517"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333858+00:00 ip-10-0-1-11 systemd[1]: Mounted sys-kernel-tracing.mount - Kernel Trace File System.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536518"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333860+00:00 ip-10-0-1-11 systemd[1]: Finished keyboard-setup.service - Set the console keyboard layout.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536519"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333864+00:00 ip-10-0-1-11 systemd[1]: Finished kmod-static-nodes.service - Create List of Static Device Nodes.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536520"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333866+00:00 ip-10-0-1-11 systemd[1]: Finished lvm2-monitor.service - Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536521"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333869+00:00 ip-10-0-1-11 systemd[1]: modprobe@configfs.service: Deactivated successfully.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536522"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333871+00:00 ip-10-0-1-11 systemd[1]: Finished modprobe@configfs.service - Load Kernel Module configfs.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536523"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333874+00:00 ip-10-0-1-11 systemd[1]: modprobe@dm_mod.service: Deactivated successfully.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536524"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333876+00:00 ip-10-0-1-11 systemd-modules-load[140]: Inserted module 'dm_multipath'",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536525"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333880+00:00 ip-10-0-1-11 systemd[1]: Finished modprobe@dm_mod.service - Load Kernel Module dm_mod.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536526"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333883+00:00 ip-10-0-1-11 systemd[1]: modprobe@drm.service: Deactivated successfully.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536527"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333885+00:00 ip-10-0-1-11 systemd[1]: Finished modprobe@drm.service - Load Kernel Module drm.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536528"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185780,
+            "message": "2026-11-23T05:49:40.333887+00:00 ip-10-0-1-11 systemd[1]: modprobe@efi_pstore.service: Deactivated successfully.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786633095855342613616671757200435855858297536529"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333890+00:00 ip-10-0-1-11 systemd[1]: Finished modprobe@efi_pstore.service - Load Kernel Module efi_pstore.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516946"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333892+00:00 ip-10-0-1-11 systemd[1]: modprobe@fuse.service: Deactivated successfully.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516947"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333896+00:00 ip-10-0-1-11 systemd[1]: Finished modprobe@fuse.service - Load Kernel Module fuse.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516948"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333898+00:00 ip-10-0-1-11 systemd[1]: modprobe@loop.service: Deactivated successfully.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516949"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333901+00:00 ip-10-0-1-11 systemd[1]: Finished modprobe@loop.service - Load Kernel Module loop.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516950"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333903+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-fsck-root.service - File System Check on Root Device.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516951"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333906+00:00 ip-10-0-1-11 systemd[1]: Mounting sys-fs-fuse-connections.mount - FUSE Control File System...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516952"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333908+00:00 ip-10-0-1-11 systemd-modules-load[140]: Inserted module 'nf_conntrack'",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516953"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333912+00:00 ip-10-0-1-11 systemd[1]: Mounting sys-kernel-config.mount - Kernel Configuration File System...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516954"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333915+00:00 ip-10-0-1-11 systemd[1]: Started systemd-fsckd.service - File System Check Daemon to report status.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516955"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333917+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-remount-fs.service - Remount Root and Kernel File Systems...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516956"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333920+00:00 ip-10-0-1-11 systemd[1]: systemd-repart.service - Repartition Root Disk was skipped because no trigger condition checks were met.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516957"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333922+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-tmpfiles-setup-dev-early.service - Create Static Device Nodes in /dev gracefully...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516958"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333924+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-modules-load.service - Load Kernel Modules.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516959"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333929+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-sysctl.service - Apply Kernel Variables...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516960"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333931+00:00 ip-10-0-1-11 systemd[1]: Mounted sys-kernel-config.mount - Kernel Configuration File System.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516961"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333934+00:00 ip-10-0-1-11 systemd[1]: Mounted sys-fs-fuse-connections.mount - FUSE Control File System.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516962"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333936+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-tmpfiles-setup-dev-early.service - Create Static Device Nodes in /dev gracefully.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516963"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333939+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-sysctl.service - Apply Kernel Variables.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516964"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333941+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-remount-fs.service - Remount Root and Kernel File Systems.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516965"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333946+00:00 ip-10-0-1-11 systemd[1]: Starting multipathd.service - Device-Mapper Multipath Device Controller...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516966"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333949+00:00 ip-10-0-1-11 systemd[1]: systemd-hwdb-update.service - Rebuild Hardware Database was skipped because no trigger condition checks were met.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516967"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333951+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-journal-flush.service - Flush Journal to Persistent Storage...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516968"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333954+00:00 ip-10-0-1-11 systemd[1]: systemd-pstore.service - Platform Persistent Storage Archival was skipped because of an unmet condition check (ConditionDirectoryNotEmpty=/sys/fs/pstore).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516969"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333956+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-random-seed.service - Load/Save OS Random Seed...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516970"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333960+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-sysusers.service - Create System Users...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516971"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333963+00:00 ip-10-0-1-11 systemd[1]: systemd-tpm2-setup.service - TPM2 SRK Setup was skipped because of an unmet condition check (ConditionSecurity=measured-uki).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516972"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333965+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-udev-trigger.service - Coldplug All udev Devices.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516973"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333967+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-random-seed.service - Load/Save OS Random Seed.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516974"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333970+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-sysusers.service - Create System Users.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516975"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333972+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-tmpfiles-setup-dev.service - Create Static Device Nodes in /dev...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516976"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333976+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-journal-flush.service - Flush Journal to Persistent Storage.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516977"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333979+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-tmpfiles-setup-dev.service - Create Static Device Nodes in /dev.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516978"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333981+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-udevd.service - Rule-based Manager for Device Events and Files...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516979"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333984+00:00 ip-10-0-1-11 multipathd[181]: multipathd v0.9.4: start up",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516980"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333986+00:00 ip-10-0-1-11 multipathd[181]: reconfigure: setting up paths and maps",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516981"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333989+00:00 ip-10-0-1-11 systemd[1]: Started multipathd.service - Device-Mapper Multipath Device Controller.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516982"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185781,
+            "message": "2026-11-23T05:49:40.333993+00:00 ip-10-0-1-11 systemd[1]: Reached target local-fs-pre.target - Preparation for Local File Systems.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786655396600541144239813292918708504219803516983"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.333995+00:00 ip-10-0-1-11 systemd[1]: Mounting snap-amazon\\x2dssm\\x2dagent-13349.mount - Mount unit for amazon-ssm-agent, revision 13349...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497400"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.333998+00:00 ip-10-0-1-11 systemd[1]: Mounting snap-core22-3129.mount - Mount unit for core22, revision 3129...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497401"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334000+00:00 ip-10-0-1-11 systemd[1]: Mounting snap-snapd-28332.mount - Mount unit for snapd, revision 28332...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497402"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334002+00:00 ip-10-0-1-11 systemd-udevd[193]: Using default interface naming scheme 'v255'.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497403"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334007+00:00 ip-10-0-1-11 systemd[1]: Mounted snap-amazon\\x2dssm\\x2dagent-13349.mount - Mount unit for amazon-ssm-agent, revision 13349.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497404"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334018+00:00 ip-10-0-1-11 systemd[1]: Mounted snap-snapd-28332.mount - Mount unit for snapd, revision 28332.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497405"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334020+00:00 ip-10-0-1-11 systemd[1]: Mounted snap-core22-3129.mount - Mount unit for core22, revision 3129.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497406"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334023+00:00 ip-10-0-1-11 systemd[1]: Reached target snapd.mounts.target - Mounted snaps.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497407"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334025+00:00 ip-10-0-1-11 systemd[1]: Started systemd-udevd.service - Rule-based Manager for Device Events and Files.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497408"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334027+00:00 ip-10-0-1-11 systemd[1]: plymouth-start.service - Show Plymouth Boot Screen was skipped because of an unmet condition check (ConditionKernelCommandLine=splash).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497409"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334031+00:00 ip-10-0-1-11 systemd[1]: Started systemd-ask-password-console.path - Dispatch Password Requests to Console Directory Watch.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497410"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334034+00:00 ip-10-0-1-11 systemd[1]: systemd-ask-password-plymouth.path - Forward Password Requests to Plymouth Directory Watch was skipped because of an unmet condition check (ConditionPathExists=/run/plymouth/pid).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497411"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334037+00:00 ip-10-0-1-11 systemd[1]: Reached target cryptsetup.target - Local Encrypted Volumes.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497412"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334039+00:00 ip-10-0-1-11 systemd[1]: Found device dev-ttyS0.device - /dev/ttyS0.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497413"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334041+00:00 ip-10-0-1-11 systemd[1]: Found device dev-disk-by\\x2dlabel-BOOT.device - /dev/disk/by-label/BOOT.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497414"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334049+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-fsck@dev-disk-by\\x2dlabel-BOOT.service - File System Check on /dev/disk/by-label/BOOT...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497415"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334051+00:00 ip-10-0-1-11 systemd[1]: Found device dev-disk-by\\x2dlabel-UEFI.device - /dev/disk/by-label/UEFI.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497416"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334053+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-fsck@dev-disk-by\\x2dlabel-UEFI.service - File System Check on /dev/disk/by-label/UEFI...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497417"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334056+00:00 ip-10-0-1-11 systemd-fsck[247]: BOOT: clean, 601/58496 files, 37402/233728 blocks",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497418"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334059+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-fsck@dev-disk-by\\x2dlabel-BOOT.service - File System Check on /dev/disk/by-label/BOOT.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497419"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334062+00:00 ip-10-0-1-11 systemd-fsck[249]: fsck.fat 4.2 (2021-01-31)",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497420"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334066+00:00 ip-10-0-1-11 systemd-fsck[249]: /dev/xvda15: 12 files, 12499/213663 clusters",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497421"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334070+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-fsck@dev-disk-by\\x2dlabel-UEFI.service - File System Check on /dev/disk/by-label/UEFI.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497422"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334072+00:00 ip-10-0-1-11 systemd[1]: Mounting boot.mount - /boot...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497423"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334074+00:00 ip-10-0-1-11 systemd[1]: Mounted boot.mount - /boot.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497424"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334076+00:00 ip-10-0-1-11 systemd[1]: Mounting boot-efi.mount - /boot/efi...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497425"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334079+00:00 ip-10-0-1-11 systemd[1]: Mounted boot-efi.mount - /boot/efi.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497426"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334083+00:00 ip-10-0-1-11 systemd[1]: Reached target local-fs.target - Local File Systems.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497427"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334085+00:00 ip-10-0-1-11 systemd[1]: Listening on systemd-sysext.socket - System Extension Image Management (Varlink).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497428"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334087+00:00 ip-10-0-1-11 systemd[1]: Starting apparmor.service - Load AppArmor profiles...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497429"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334089+00:00 ip-10-0-1-11 systemd[1]: Starting console-setup.service - Set console font and keymap...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497430"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334092+00:00 ip-10-0-1-11 systemd[1]: Starting finalrd.service - Create final runtime dir for shutdown pivot root...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497431"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334094+00:00 ip-10-0-1-11 systemd[1]: Starting ldconfig.service - Rebuild Dynamic Linker Cache...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497432"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334098+00:00 ip-10-0-1-11 systemd[1]: Starting plymouth-read-write.service - Tell Plymouth To Write Out Runtime Data...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497433"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334101+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-binfmt.service - Set Up Additional Binary Formats...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497434"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334103+00:00 ip-10-0-1-11 apparmor.systemd[260]: Restarting AppArmor",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497435"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334106+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-tmpfiles-setup.service - Create Volatile Files and Directories...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497436"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334108+00:00 ip-10-0-1-11 apparmor.systemd[260]: Reloading AppArmor profiles",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497437"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334110+00:00 ip-10-0-1-11 systemd[1]: Starting ufw.service - Uncomplicated firewall...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497438"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334114+00:00 ip-10-0-1-11 systemd[1]: Finished console-setup.service - Set console font and keymap.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497439"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334117+00:00 ip-10-0-1-11 systemd[1]: Finished finalrd.service - Create final runtime dir for shutdown pivot root.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497440"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334119+00:00 ip-10-0-1-11 systemd[1]: Finished plymouth-read-write.service - Tell Plymouth To Write Out Runtime Data.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497441"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334121+00:00 ip-10-0-1-11 systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 265 (systemd-binfmt)",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497442"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334124+00:00 ip-10-0-1-11 systemd[1]: Mounting proc-sys-fs-binfmt_misc.mount - Arbitrary Executable File Formats File System...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497443"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334127+00:00 ip-10-0-1-11 systemd[1]: Finished ufw.service - Uncomplicated firewall.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497444"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334130+00:00 ip-10-0-1-11 systemd[1]: Mounted proc-sys-fs-binfmt_misc.mount - Arbitrary Executable File Formats File System.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497445"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334132+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-binfmt.service - Set Up Additional Binary Formats.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497446"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334134+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-tmpfiles-setup.service - Create Volatile Files and Directories.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497447"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334137+00:00 ip-10-0-1-11 systemd[1]: systemd-firstboot.service - First Boot Wizard was skipped because of an unmet condition check (ConditionFirstBoot=yes).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497448"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334139+00:00 ip-10-0-1-11 systemd[1]: first-boot-complete.target - First Boot Complete was skipped because of an unmet condition check (ConditionFirstBoot=yes).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497449"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334143+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-journal-catalog-update.service - Rebuild Journal Catalog...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497450"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334145+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-machine-id-commit.service - Commit a transient machine-id on disk...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497451"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334148+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-resolved.service - Network Name Resolution...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497452"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334150+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-update-utmp.service - Record System Boot/Shutdown in UTMP...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497453"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334153+00:00 ip-10-0-1-11 systemd[1]: vgauth.service - Authentication service for virtual machines hosted on VMware was skipped because of an unmet condition check (ConditionVirtualization=vmware).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497454"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334157+00:00 ip-10-0-1-11 systemd[1]: open-vm-tools.service - Service for virtual machines hosted on VMware was skipped because of an unmet condition check (ConditionVirtualization=vmware).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497455"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334159+00:00 ip-10-0-1-11 systemd[1]: Starting cloud-init-local.service - Cloud-init: Local Stage (pre-network)...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497456"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334162+00:00 ip-10-0-1-11 systemd[1]: etc-machine\\x2did.mount: Deactivated successfully.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497457"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334164+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-machine-id-commit.service - Commit a transient machine-id on disk.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497458"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334167+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-journal-catalog-update.service - Rebuild Journal Catalog.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497459"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334169+00:00 ip-10-0-1-11 systemd[1]: Listening on systemd-rfkill.socket - Load/Save RF Kill Switch Status /dev/rfkill Watch.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497460"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334173+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-update-utmp.service - Record System Boot/Shutdown in UTMP.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497461"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334175+00:00 ip-10-0-1-11 systemd-resolved[305]: Positive Trust Anchors:",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497462"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334178+00:00 ip-10-0-1-11 systemd-resolved[305]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497463"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334180+00:00 ip-10-0-1-11 systemd-resolved[305]: . IN DS 38696 8 2 683d2d0acb8c9b712a1948b27f741219298d0a450d612c483af444a4c0fb2b16",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497464"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334183+00:00 ip-10-0-1-11 systemd-resolved[305]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497465"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185782,
+            "message": "2026-11-23T05:49:40.334188+00:00 ip-10-0-1-11 systemd-resolved[305]: Using system hostname 'ubuntu'.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786677697345739674862954828636981152581309497466"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334190+00:00 ip-10-0-1-11 systemd[1]: Started systemd-resolved.service - Network Name Resolution.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477883"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334193+00:00 ip-10-0-1-11 systemd[1]: Reached target nss-lookup.target - Host and Network Name Lookups.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477884"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334195+00:00 ip-10-0-1-11 systemd[1]: Finished ldconfig.service - Rebuild Dynamic Linker Cache.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477885"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334197+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-update-done.service - Update is Completed...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477886"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334200+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-update-done.service - Update is Completed.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477887"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334203+00:00 ip-10-0-1-11 cloud-init[426]: Cloud-init v. 26.2-0ubuntu1~24.04.2 running 'init-local' at Mon, 23 Nov 2026 05:49:33 +0000. Up 4.79 seconds.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477888"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334207+00:00 ip-10-0-1-11 dhcpcd[429]: dhcpcd-10.0.6 starting",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477889"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334209+00:00 ip-10-0-1-11 dhcpcd[429]: chrooting as dhcpcd to /usr/lib/dhcpcd",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477890"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334212+00:00 ip-10-0-1-11 dhcpcd[431]: spawned manager process on PID 431",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477891"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334214+00:00 ip-10-0-1-11 dhcpcd[432]: spawned privileged proxy on PID 432",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477892"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334217+00:00 ip-10-0-1-11 dhcpcd[432]: spawned controller proxy on PID 433",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477893"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334221+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: executing: /bin/true PREINIT",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477894"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334223+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: executing: /bin/true CARRIER",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477895"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334225+00:00 ip-10-0-1-11 dhcpcd[432]: DUID 00:01:00:01:32:96:90:6d:02:ff:e5:7f:b1:13",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477896"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334227+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: IAID e5:7f:b1:13",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477897"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334230+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: delaying IPv4 for 0.1 seconds",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477898"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334232+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: reading lease: /var/lib/dhcpcd/enX0.lease",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477899"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334236+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: soliciting a DHCP lease",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477900"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334238+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: sending DISCOVER (xid 0xded9eeec), next in 4.1 seconds",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477901"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334240+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: spawned BPF BOOTP on PID 441",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477902"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334243+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: offered 10.0.1.11 from 10.0.1.1",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477903"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334245+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: process BPF BOOTP already started on pid 441",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477904"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334248+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: sending REQUEST (xid 0xded9eeec), next in 3.1 seconds",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477905"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334250+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: acknowledged 10.0.1.11 from 10.0.1.1",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477906"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334254+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: leased 10.0.1.11 for 3600 seconds",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477907"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334256+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: renew in 1800 seconds, rebind in 3150 seconds",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477908"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334258+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: writing lease: /var/lib/dhcpcd/enX0.lease",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477909"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334260+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: adding IP address 10.0.1.11/24 broadcast 10.0.1.255",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477910"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334263+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: adding route to 10.0.1.0/24",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477911"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334265+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: adding default route via 10.0.1.1",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477912"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334270+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: executing: /bin/true BOUND",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477913"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334272+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: spawned BOOTP proxy 10.0.1.11 on PID 443",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477914"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334274+00:00 ip-10-0-1-11 dhcpcd[432]: enX0: BPF BOOTP exited from PID 441",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477915"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334276+00:00 ip-10-0-1-11 dhcpcd[432]: control command: dhcpcd --dumplease --ipv4only enX0",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477916"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334279+00:00 ip-10-0-1-11 systemd-resolved[305]: System hostname changed to 'ip-10-0-1-11'.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477917"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334282+00:00 ip-10-0-1-11 systemd[1]: Finished apparmor.service - Load AppArmor profiles.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477918"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334284+00:00 ip-10-0-1-11 systemd[1]: Starting snapd.apparmor.service - Load AppArmor profiles managed internally by snapd...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477919"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334288+00:00 ip-10-0-1-11 systemd[1]: netplan-ovs-cleanup.service - OpenVSwitch configuration for cleanup was skipped because of an unmet condition check (ConditionFileIsExecutable=/usr/bin/ovs-vsctl).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477920"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334297+00:00 ip-10-0-1-11 systemd[1]: message repeated 2 times: [ netplan-ovs-cleanup.service - OpenVSwitch configuration for cleanup was skipped because of an unmet condition check (ConditionFileIsExecutable=/usr/bin/ovs-vsctl).]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477921"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334300+00:00 ip-10-0-1-11 systemd[1]: Reloading requested from client PID 484 ('systemctl') (unit cloud-init-local.service)...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477922"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334306+00:00 ip-10-0-1-11 systemd[1]: Reloading...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477923"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334309+00:00 ip-10-0-1-11 snapd-apparmor[471]: main.go:145: Loading profiles [/var/lib/snapd/apparmor/profiles/snap-confine.snapd.28332 /var/lib/snapd/apparmor/profiles/snap-update-ns.amazon-ssm-agent /var/lib/snapd/apparmor/profiles/snap.amazon-ssm-agent.amazon-ssm-agent /var/lib/snapd/apparmor/profiles/snap.amazon-ssm-agent.ssm-cli]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477924"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334312+00:00 ip-10-0-1-11 systemd[1]: Reloading finished in 306 ms.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477925"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334314+00:00 ip-10-0-1-11 systemd[1]: Finished snapd.apparmor.service - Load AppArmor profiles managed internally by snapd.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477926"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334316+00:00 ip-10-0-1-11 systemd[1]: Finished cloud-init-local.service - Cloud-init: Local Stage (pre-network).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477927"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334319+00:00 ip-10-0-1-11 systemd[1]: Reached target network-pre.target - Preparation for Network.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477928"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334323+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-networkd.service - Network Configuration...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477929"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334326+00:00 ip-10-0-1-11 systemd-networkd[528]: lo: Link UP",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477930"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334328+00:00 ip-10-0-1-11 systemd-networkd[528]: lo: Gained carrier",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477931"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334330+00:00 ip-10-0-1-11 systemd-networkd[528]: Enumeration completed",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477932"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334333+00:00 ip-10-0-1-11 systemd-networkd[528]: enX0: Link UP",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477933"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334335+00:00 ip-10-0-1-11 systemd-networkd[528]: enX0: Gained carrier",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477934"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334341+00:00 ip-10-0-1-11 systemd-networkd[528]: enX0: Link DOWN",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477935"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334344+00:00 ip-10-0-1-11 systemd-networkd[528]: enX0: Lost carrier",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477936"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334346+00:00 ip-10-0-1-11 systemd[1]: Started systemd-networkd.service - Network Configuration.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477937"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334348+00:00 ip-10-0-1-11 systemd[1]: Reached target network.target - Network.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477938"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334351+00:00 ip-10-0-1-11 systemd[1]: Starting systemd-networkd-wait-online.service - Wait for Network to be Configured...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477939"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334353+00:00 ip-10-0-1-11 systemd-networkd[528]: enX0: Configuring with /run/systemd/network/10-netplan-enX0.network.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477940"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334358+00:00 ip-10-0-1-11 systemd-networkd[528]: enX0: Link UP",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477941"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334361+00:00 ip-10-0-1-11 systemd-networkd[528]: enX0: Gained carrier",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477942"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334363+00:00 ip-10-0-1-11 systemd-networkd[528]: enX0: DHCPv4 address 10.0.1.11/24, gateway 10.0.1.1 acquired from 10.0.1.1",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477943"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334365+00:00 ip-10-0-1-11 systemd-networkd[528]: enX0: Gained IPv6LL",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477944"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334367+00:00 ip-10-0-1-11 systemd[1]: Finished systemd-networkd-wait-online.service - Wait for Network to be Configured.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477945"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334370+00:00 ip-10-0-1-11 systemd[1]: Starting cloud-init.service - Cloud-init: Network Stage...",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477946"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334374+00:00 ip-10-0-1-11 cloud-init[538]: Cloud-init v. 26.2-0ubuntu1~24.04.2 running 'init' at Mon, 23 Nov 2026 05:49:37 +0000. Up 8.75 seconds.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477947"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334377+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477948"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334379+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: +--------+------+----------------------------+---------------+--------+-------------------+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477949"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334382+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477950"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334384+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: +--------+------+----------------------------+---------------+--------+-------------------+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477951"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334389+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: |  enX0  | True |         10.0.1.11          | 255.255.255.0 | global | 02:ff:e5:7f:b1:13 |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477952"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334391+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: |  enX0  | True | fe80::ff:e5ff:fe7f:b113/64 |       .       |  link  | 02:ff:e5:7f:b1:13 |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477953"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334394+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477954"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334396+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477955"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334398+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: +--------+------+----------------------------+---------------+--------+-------------------+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477956"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185783,
+            "message": "2026-11-23T05:49:40.334403+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: ++++++++++++++++++++++++++++Route IPv4 info+++++++++++++++++++++++++++++",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786699998090938205486096364355253800942815477957"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334406+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: +-------+-------------+----------+-----------------+-----------+-------+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458374"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334408+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: | Route | Destination | Gateway  |     Genmask     | Interface | Flags |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458375"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334411+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: +-------+-------------+----------+-----------------+-----------+-------+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458376"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334413+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: |   0   |   0.0.0.0   | 10.0.1.1 |     0.0.0.0     |    enX0   |   UG  |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458377"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334415+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: |   1   |   10.0.0.2  | 10.0.1.1 | 255.255.255.255 |    enX0   |  UGH  |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458378"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334420+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: |   2   |   10.0.1.0  | 0.0.0.0  |  255.255.255.0  |    enX0   |   U   |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458379"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334422+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: |   3   |   10.0.1.1  | 0.0.0.0  | 255.255.255.255 |    enX0   |   UH  |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458380"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334425+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: +-------+-------------+----------+-----------------+-----------+-------+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458381"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334427+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458382"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334429+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: +-------+-------------+---------+-----------+-------+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458383"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334455+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: | Route | Destination | Gateway | Interface | Flags |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458384"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334458+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: +-------+-------------+---------+-----------+-------+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458385"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334460+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: |   0   |  fe80::/64  |    ::   |    enX0   |   U   |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458386"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334462+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: |   2   |    local    |    ::   |    enX0   |   U   |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458387"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334465+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: |   3   |  multicast  |    ::   |    enX0   |   U   |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458388"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334467+00:00 ip-10-0-1-11 cloud-init[538]: ci-info: +-------+-------------+---------+-----------+-------+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458389"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334507+00:00 ip-10-0-1-11 cloud-init[538]: Generating public/private rsa key pair.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458390"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334511+00:00 ip-10-0-1-11 cloud-init[538]: Your identification has been saved in /etc/ssh/ssh_host_rsa_key",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458391"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334514+00:00 ip-10-0-1-11 cloud-init[538]: Your public key has been saved in /etc/ssh/ssh_host_rsa_key.pub",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458392"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334516+00:00 ip-10-0-1-11 cloud-init[538]: The key fingerprint is:",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458393"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334519+00:00 ip-10-0-1-11 cloud-init[538]: SHA256:HVV8h6zJbBRmsgB64FZjDv1b0U8SBkO8BBAOHbIztD4 root@ip-10-0-1-11",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458394"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334521+00:00 ip-10-0-1-11 cloud-init[538]: The key's randomart image is:",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458395"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334523+00:00 ip-10-0-1-11 cloud-init[538]: +---[RSA 3072]----+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458396"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334529+00:00 ip-10-0-1-11 cloud-init[538]: |    *oO=o+=oB*.. |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458397"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334531+00:00 ip-10-0-1-11 cloud-init[538]: |   o &o. .+O+ = o|",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458398"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334533+00:00 ip-10-0-1-11 cloud-init[538]: |    O +. .o* * ..|",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458399"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334536+00:00 ip-10-0-1-11 cloud-init[538]: |   o +  ..o.* .  |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458400"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334538+00:00 ip-10-0-1-11 cloud-init[538]: |    E   So..     |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458401"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334540+00:00 ip-10-0-1-11 cloud-init[538]: |     .  .        |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458402"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334545+00:00 ip-10-0-1-11 cloud-init[538]: |                 |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458403"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334551+00:00 ip-10-0-1-11 cloud-init[538]: message repeated 2 times: [ |                 |]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458404"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334553+00:00 ip-10-0-1-11 cloud-init[538]: +----[SHA256]-----+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458405"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334556+00:00 ip-10-0-1-11 cloud-init[538]: Generating public/private ecdsa key pair.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458406"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334559+00:00 ip-10-0-1-11 cloud-init[538]: Your identification has been saved in /etc/ssh/ssh_host_ecdsa_key",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458407"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334563+00:00 ip-10-0-1-11 cloud-init[538]: Your public key has been saved in /etc/ssh/ssh_host_ecdsa_key.pub",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458408"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334566+00:00 ip-10-0-1-11 cloud-init[538]: The key fingerprint is:",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458409"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334568+00:00 ip-10-0-1-11 cloud-init[538]: SHA256:xZIfHCK/yk5hJz9xC9nfcbKp1hU6at/7PwmpznSEYig root@ip-10-0-1-11",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458410"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334570+00:00 ip-10-0-1-11 cloud-init[538]: The key's randomart image is:",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458411"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334573+00:00 ip-10-0-1-11 cloud-init[538]: +---[ECDSA 256]---+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458412"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334576+00:00 ip-10-0-1-11 cloud-init[538]: |      . . .      |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458413"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334583+00:00 ip-10-0-1-11 cloud-init[538]: |       o = .     |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458414"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334585+00:00 ip-10-0-1-11 cloud-init[538]: |        + =      |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458415"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334587+00:00 ip-10-0-1-11 cloud-init[538]: |        .B ..  . |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458416"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334590+00:00 ip-10-0-1-11 cloud-init[538]: |     E+.So+. .= o|",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458417"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334592+00:00 ip-10-0-1-11 cloud-init[538]: |     o.*.+.o.* *.|",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458418"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334594+00:00 ip-10-0-1-11 cloud-init[538]: |      + o ..+o*..|",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458419"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334597+00:00 ip-10-0-1-11 cloud-init[538]: |     o   .o+o.oo |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458420"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334602+00:00 ip-10-0-1-11 cloud-init[538]: |      .   o+o. oB|",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458421"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334604+00:00 ip-10-0-1-11 cloud-init[538]: +----[SHA256]-----+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458422"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334606+00:00 ip-10-0-1-11 cloud-init[538]: Generating public/private ed25519 key pair.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458423"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334609+00:00 ip-10-0-1-11 cloud-init[538]: Your identification has been saved in /etc/ssh/ssh_host_ed25519_key",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458424"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334612+00:00 ip-10-0-1-11 cloud-init[538]: Your public key has been saved in /etc/ssh/ssh_host_ed25519_key.pub",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458425"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334614+00:00 ip-10-0-1-11 cloud-init[538]: The key fingerprint is:",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458426"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334619+00:00 ip-10-0-1-11 cloud-init[538]: SHA256://SA+FhQJUrD96X7dLSnWAdRETwCYanLNv8eLVqTPWM root@ip-10-0-1-11",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458427"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334621+00:00 ip-10-0-1-11 cloud-init[538]: The key's randomart image is:",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458428"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334623+00:00 ip-10-0-1-11 cloud-init[538]: +--[ED25519 256]--+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458429"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334626+00:00 ip-10-0-1-11 cloud-init[538]: |       .o .+= .++|",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458430"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334628+00:00 ip-10-0-1-11 cloud-init[538]: |       ..oo+ .oo |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458431"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334630+00:00 ip-10-0-1-11 cloud-init[538]: |        ..o. o...|",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458432"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334635+00:00 ip-10-0-1-11 cloud-init[538]: |         o  o . .|",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458433"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334637+00:00 ip-10-0-1-11 cloud-init[538]: |        S .  . o.|",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458434"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334639+00:00 ip-10-0-1-11 cloud-init[538]: |         O .. *.+|",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458435"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334641+00:00 ip-10-0-1-11 cloud-init[538]: |        o * o@ E.|",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458436"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334643+00:00 ip-10-0-1-11 cloud-init[538]: |         + ++oB o|",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458437"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334645+00:00 ip-10-0-1-11 cloud-init[538]: |        . ..+o.  |",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458438"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334650+00:00 ip-10-0-1-11 cloud-init[538]: +----[SHA256]-----+",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458439"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334653+00:00 ip-10-0-1-11 systemd[1]: Finished cloud-init.service - Cloud-init: Network Stage.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458440"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334656+00:00 ip-10-0-1-11 systemd[1]: Reached target cloud-config.target - Cloud-config availability.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458441"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334659+00:00 ip-10-0-1-11 systemd[1]: Reached target network-online.target - Network is Online.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458442"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334661+00:00 ip-10-0-1-11 systemd[1]: Reached target sysinit.target - System Initialization.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458443"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334663+00:00 ip-10-0-1-11 systemd[1]: Started acpid.path - ACPI Events Check.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458444"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334666+00:00 ip-10-0-1-11 systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458445"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334671+00:00 ip-10-0-1-11 systemd[1]: tpm-udev.path - Handle dynamically added tpm devices was skipped because of an unmet condition check (ConditionVirtualization=container).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458446"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334673+00:00 ip-10-0-1-11 systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458447"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.334676+00:00 ip-10-0-1-11 systemd[1]: Started systemd-tmpfiles-clean.timer - Daily Cleanup of Temporary Directories.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458448"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.327952+00:00 ip-10-0-1-11 kernel: Linux version 7.0.0-1018-aws (buildd@lcy02-amd64-118) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #19~24.04.1-Ubuntu SMP PREEMPT Thu Nov 12 17:17:32 UTC 2026 (Ubuntu 7.0.0-1018.19~24.04.1-aws 7.0.14)",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458449"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.338190+00:00 ip-10-0-1-11 kernel: Command line: BOOT_IMAGE=/vmlinuz-7.0.0-1018-aws root=PARTUUID=26711ced-2b2e-49ba-87b3-5c28e0fac385 ro console=tty1 console=ttyS0 nvme_core.io_timeout=4294967295 panic=-1",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458450"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.338194+00:00 ip-10-0-1-11 kernel: KERNEL supported cpus:",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458451"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.338195+00:00 ip-10-0-1-11 kernel:   Intel GenuineIntel",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458452"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.338196+00:00 ip-10-0-1-11 kernel:   AMD AuthenticAMD",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458453"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.338196+00:00 ip-10-0-1-11 kernel:   Hygon HygonGenuine",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458454"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.338197+00:00 ip-10-0-1-11 kernel:   Centaur CentaurHauls",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458455"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.338199+00:00 ip-10-0-1-11 kernel:   zhaoxin   Shanghai  ",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458456"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.338200+00:00 ip-10-0-1-11 kernel: x86/CPU: Model not found in latest microcode list",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458457"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.338201+00:00 ip-10-0-1-11 kernel: BIOS-provided physical RAM map:",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458458"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185784,
+            "message": "2026-11-23T05:49:40.338202+00:00 ip-10-0-1-11 kernel: BIOS-e820: [mem 0x0000000000000000-0x000000000009dfff]  System RAM",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786722298836136736109237900073526449304321458459"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338203+00:00 ip-10-0-1-11 kernel: BIOS-e820: [mem 0x000000000009e000-0x000000000009ffff]  device reserved",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438876"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338203+00:00 ip-10-0-1-11 kernel: BIOS-e820: [gap 0x00000000000a0000-0x00000000000dffff]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438877"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338206+00:00 ip-10-0-1-11 kernel: BIOS-e820: [mem 0x00000000000e0000-0x00000000000fffff]  device reserved",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438878"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338207+00:00 ip-10-0-1-11 kernel: BIOS-e820: [mem 0x0000000000100000-0x000000003fffffff]  System RAM",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438879"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338208+00:00 ip-10-0-1-11 kernel: BIOS-e820: [gap 0x0000000040000000-0x00000000fbffffff]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438880"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338208+00:00 ip-10-0-1-11 kernel: BIOS-e820: [mem 0x00000000fc000000-0x00000000ffffffff]  device reserved",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438881"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338209+00:00 ip-10-0-1-11 kernel: NX (Execute Disable) protection: active",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438882"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338210+00:00 ip-10-0-1-11 kernel: APIC: Static calls initialized",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438883"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338211+00:00 ip-10-0-1-11 kernel: SMBIOS 2.7 present.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438884"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338213+00:00 ip-10-0-1-11 kernel: DMI: Xen HVM domU, BIOS 4.11.amazon 08/24/2006",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438885"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338214+00:00 ip-10-0-1-11 kernel: DMI: Memory slots populated: 1/1",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438886"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338214+00:00 ip-10-0-1-11 kernel: Hypervisor detected: Xen HVM",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438887"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338215+00:00 ip-10-0-1-11 kernel: Xen version 4.11.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438888"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338216+00:00 ip-10-0-1-11 kernel: platform_pci_unplug: Netfront and the Xen platform PCI driver have been compiled for this kernel: unplug emulated NICs.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438889"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338217+00:00 ip-10-0-1-11 kernel: platform_pci_unplug: Blkfront and the Xen platform PCI driver have been compiled for this kernel: unplug emulated disks.",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438890"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185785,
+            "message": "2026-11-23T05:49:40.338219+00:00 ip-10-0-1-11 kernel: You might have to change the root device",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786744599581335266732379435791799097665827438891"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338220+00:00 ip-10-0-1-11 kernel: from /dev/hd[a-d] to /dev/xvd[a-d]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419308"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338220+00:00 ip-10-0-1-11 kernel: in your root= kernel command line option",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419309"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338221+00:00 ip-10-0-1-11 kernel: HVMOP_pagetable_dying not supported",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419310"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338222+00:00 ip-10-0-1-11 kernel: tsc: Detected 2299.998 MHz processor",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419311"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338223+00:00 ip-10-0-1-11 kernel: e820: update [mem 0x00000000-0x00000fff] System RAM ==> device reserved",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419312"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338225+00:00 ip-10-0-1-11 kernel: e820: remove [mem 0x000a0000-0x000fffff] System RAM",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419313"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338225+00:00 ip-10-0-1-11 kernel: last_pfn = 0x40000 max_arch_pfn = 0x400000000",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419314"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338226+00:00 ip-10-0-1-11 kernel: MTRR map: 4 entries (3 fixed + 1 variable; max 19), built from 8 variable MTRRs",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419315"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338227+00:00 ip-10-0-1-11 kernel: x86/PAT: Configuration [0-7]: WB  WC  UC- UC  WB  WP  UC- WT  ",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419316"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338228+00:00 ip-10-0-1-11 kernel: found SMP MP-table at [mem 0x000fbb70-0x000fbb7f]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419317"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338228+00:00 ip-10-0-1-11 kernel: RAMDISK: [mem 0x3631f000-0x37186fff]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419318"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338229+00:00 ip-10-0-1-11 kernel: ACPI: Early table checksum verification disabled",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419319"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338231+00:00 ip-10-0-1-11 kernel: ACPI: RSDP 0x00000000000EA020 000024 (v02 Xen   )",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419320"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338232+00:00 ip-10-0-1-11 kernel: ACPI: XSDT 0x00000000FC00A250 00005C (v01 Xen    HVM      00000000 HVML 00000000)",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419321"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338233+00:00 ip-10-0-1-11 kernel: ACPI: FACP 0x00000000FC00A150 0000F4 (v04 Xen    HVM      00000000 HVML 00000000)",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419322"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338234+00:00 ip-10-0-1-11 kernel: ACPI: DSDT 0x00000000FC001000 008A79 (v02 Xen    HVM      00000000 INTL 20090123)",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419323"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338234+00:00 ip-10-0-1-11 kernel: ACPI: FACS 0x00000000FC00A050 000040",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419324"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338235+00:00 ip-10-0-1-11 kernel: ACPI: FACS 0x00000000FC00A050 000040",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419325"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338239+00:00 ip-10-0-1-11 kernel: ACPI: SSDT 0x00000000FC009A80 000033 (v02 Xen    HVM      00000000 INTL 20090123)",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419326"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338240+00:00 ip-10-0-1-11 kernel: ACPI: SSDT 0x00000000FC009AC0 000031 (v02 Xen    HVM      00000000 INTL 20090123)",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419327"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338240+00:00 ip-10-0-1-11 kernel: ACPI: APIC 0x00000000FC009B00 0000D8 (v02 Xen    HVM      00000000 HVML 00000000)",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419328"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338241+00:00 ip-10-0-1-11 kernel: ACPI: HPET 0x00000000FC009FE0 000038 (v01 Xen    HVM      00000000 HVML 00000000)",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419329"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338242+00:00 ip-10-0-1-11 kernel: ACPI: WAET 0x00000000FC00A020 000028 (v01 Xen    HVM      00000000 HVML 00000000)",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419330"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338243+00:00 ip-10-0-1-11 kernel: ACPI: Reserving FACP table memory at [mem 0xfc00a150-0xfc00a243]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419331"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338245+00:00 ip-10-0-1-11 kernel: ACPI: Reserving DSDT table memory at [mem 0xfc001000-0xfc009a78]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419332"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338246+00:00 ip-10-0-1-11 kernel: ACPI: Reserving FACS table memory at [mem 0xfc00a050-0xfc00a08f]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419333"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338246+00:00 ip-10-0-1-11 kernel: ACPI: Reserving FACS table memory at [mem 0xfc00a050-0xfc00a08f]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419334"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338247+00:00 ip-10-0-1-11 kernel: ACPI: Reserving SSDT table memory at [mem 0xfc009a80-0xfc009ab2]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419335"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338248+00:00 ip-10-0-1-11 kernel: ACPI: Reserving SSDT table memory at [mem 0xfc009ac0-0xfc009af0]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419336"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338249+00:00 ip-10-0-1-11 kernel: ACPI: Reserving APIC table memory at [mem 0xfc009b00-0xfc009bd7]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419337"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338251+00:00 ip-10-0-1-11 kernel: ACPI: Reserving HPET table memory at [mem 0xfc009fe0-0xfc00a017]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419338"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338252+00:00 ip-10-0-1-11 kernel: ACPI: Reserving WAET table memory at [mem 0xfc00a020-0xfc00a047]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419339"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338253+00:00 ip-10-0-1-11 kernel: No NUMA configuration found",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419340"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338254+00:00 ip-10-0-1-11 kernel: Faking a node at [mem 0x0000000000000000-0x000000003fffffff]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419341"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338254+00:00 ip-10-0-1-11 kernel: NODE_DATA(0) allocated [mem 0x3ffd5280-0x3fffffff]",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419342"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338255+00:00 ip-10-0-1-11 kernel: ACPI: PM-Timer IO Port: 0xb008",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419343"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338256+00:00 ip-10-0-1-11 kernel: IOAPIC[0]: apic_id 1, version 17, address 0xfec00000, GSI 0-47",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419344"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1",
+            "timestamp": 1795419185786,
+            "message": "2026-11-23T05:49:40.338258+00:00 ip-10-0-1-11 kernel: ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)",
+            "ingestionTime": 1795419190813,
+            "eventId": "40039185786766900326533797355520971510071746027333419345"
+        },
+        {
+            "logStreamName": "i-0841d7a89c45068d1"
